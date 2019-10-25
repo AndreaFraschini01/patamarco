@@ -1,0 +1,1 @@
+alert("che ne dici di no?");
